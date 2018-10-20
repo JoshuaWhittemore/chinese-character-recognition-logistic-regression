@@ -11,7 +11,6 @@ Rendered on NBViewer [here](https://nbviewer.jupyter.org/github/joshua-whittemor
 
 2. This might be a good starting point for beginners.  Other ways will certainly work better - in particular a convolutional neural network.
 
-3. The dataset used in this notebook was collected by __Ryan Harper__ and presented by __Matt Borthwick__ at an informal meetup of the **Portland Data Science Group** that Matt organized.
-<br>https://www.meetup.com/Portland-Data-Science-Group
+3. The dataset used in this notebook was collected by __Ryan Harper__ and presented by __Matt Borthwick__ at an informal meetup of the __[Portland Data Science Group](https://www.meetup.com/Portland-Data-Science-Group)__ that Matt organized.
 
 4. There is a good walkthrough of applying logistic regression to the classic MNIST dataset __[here](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)__.  It's a very similar task to recognizing Chinese characters.
