@@ -1,4 +1,4 @@
-# chinese-character-recognition-logistic-regression
+# Chinese Character Recognition with Sci-Kit Learn Logistic Regression
 
 _By Joshua Whittemore_
 
